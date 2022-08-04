@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IsotopeAlpha
+- 👋 Hi, I’m @IsotopeAlpha or Israel Gayina
 - 👀 I’m interested in Flutter and React with Node js
 - 🌱 I’m currently learning more programming languages
 - 💞️ I’m looking to collaborate on Flutter as well as React js projects
